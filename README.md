@@ -1,6 +1,6 @@
 # Booker For Chrome
 
-This extensions basic code comes from the, now deprecated Google Calender for Chrome extension by [Manas Tungare](https://github.com/manastungare).
+This extensions basic code comes from the, now deprecated, Google Calender for Chrome extension by [Manas Tungare](https://github.com/manastungare).
 
 ## Project Goals
 
