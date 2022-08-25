@@ -42,7 +42,7 @@
       "19": "icons/logo_calendar_19.png",
       "38": "icons/logo_calendar_38.png"
     },
-    "default_title": "__MSG_google_calendar_extension_name__",
+    "default_title": "Booker",
     "default_popup": "browser_action.html"
   }
 }
