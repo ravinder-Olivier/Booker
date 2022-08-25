@@ -40,7 +40,7 @@
  
  /**
   * Milliseconds to wait before rendering calendar entries.
-  * The delay is needed to work aroud a Chrome extension popup layout bug
+  * The delay is needed to work around a Chrome extension popup layout bug
   * (https://crbug.com/428044). The value was picked via trial-and-error;
   * 100ms was the least amount that made the issue go away (on Chrome 64
   * and macOS Sierra). See also:
