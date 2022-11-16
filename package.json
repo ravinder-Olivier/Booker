@@ -7,6 +7,6 @@
     "grunt": "^1.5.3",
     "grunt-clang-format": "^1.1.0",
     "grunt-contrib-csslint": "^2.0.0",
-    "grunt-contrib-jshint": "^1.1.0"
+    "grunt-contrib-jshint": "^3.2.0"
   }
 }
